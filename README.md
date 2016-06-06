@@ -5,5 +5,5 @@ Annoyed by the never ending list of onerous password requirements? Getting locke
 The end goal is to categorise these on a seperate site or to roll them into a browser plugin.
 
 | Site  | Requirements | Lock out on incorrect empty |
-|---||---|---|
+|---|---|---|
 | www.opal.com.au  | 1 Uppercase and 1 Special   | Yes, on three attempts |
