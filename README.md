@@ -6,6 +6,7 @@ The end goal is to categorise these on a seperate site or to roll them into a br
 
 | Site  | Requirements | Lock out on incorrect empty |
 |---|---|---|
+| www.twilio.com  | > 8 Characters, and 3 of the following; 1 UPPER CASE, 1 lower case, 1 special, 1 number | No |
 | www.opal.com.au  | 1 Uppercase and 1 Special   | Yes, on three attempts |
 | www.chase.com | 8-32 characters, include at least one letter and one number, must not be same as previous 5, < 2 identical characters, < 2 consecutive characters (123/abc) and can't have JPM, morgan or chase in the name | No |
 | my.t-mobile.com | > 8 characters long. Must contain letters and numbers. Must contain both uppercase and lowercase letters. Cannot contain spaces or special characters (!, @, $, %, \‘) | No |
